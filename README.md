@@ -3,6 +3,17 @@ Final year project
 <br>
 Group No.9
 
+## 👥 Team
+
+- **Tanay R. Tiwari** – Lead Developer & Research Author  
+- **Shivam K. Yadao** – Second Developer (Core Functionality & Integration)  
+- **Shubham B. Vaidya** – Testing & Optimization  
+- **Pranjal R. Zode** – Documentation & PPT Module  
+- **Sayyad Anasali** – UI/UX and Presentation  
+- **Dr. Manisha Pise** – Project Guide, RCERT Chandrapur
+
+
+
 🔐 Generative AI with Blockchain Integration
 This project is a multi-modal Generative AI application that produces Text, Image, Speech, Video, and PPT outputs based on user prompts, with every generation securely logged using Blockchain. It offers a visual interface powered by Jupyter Widgets and utilizes state-of-the-art AI models like Gemini, Stable Diffusion, TTS, and ZeroScope.
 
